@@ -338,9 +338,10 @@ st.markdown(
     """
     <hr style="margin-top:50px;">
     <div style="text-align:center;font-size:14px;color:gray;">
-        © 2026 Sagar Karosiya | Energy AI Dashboard <br>
+        © 2026 Ganesh Tarapure | Energy AI Dashboard <br>
         All Rights Reserved
     </div>
     """,
     unsafe_allow_html=True
+
 )
